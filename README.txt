@@ -1,3 +1,6 @@
+Created by:
+Martin K. Svensen & Johannes Moe
+
 Import lines:
 import java.util.*
 import java.io.*
