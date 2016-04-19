@@ -13,6 +13,13 @@ How to use:
 
 
 Final notes:
-*linuxwords.txt is an example of the input file format (first line = # of words, then one word per line)
 *Smart ABC sorting (and all methods related to it) is an UNFINISHED optimalization project to increase effectiveness and as such is NOT USED.
 *Record.java was created to help with testing and bug-fixing and its usage in the main method has since been removed.
+*Input file format: first line = # of words, then one word per line
+Example:
+5
+monkey
+cat
+lion
+dog
+tiger
